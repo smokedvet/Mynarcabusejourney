@@ -1,0 +1,18 @@
+<!doctype html><html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>My Narc Abuse Journey</title><link rel='stylesheet' href='assets/style.css'></head><body><header class='site-header'><div class='container'><h1>My Narc Abuse Journey</h1><p class='tagline'>Structured truth • Healing milestones • Compassionate boundaries</p><nav class='nav'><a href='pages/timeline.html'>Timeline</a><a href='pages/about.html'>About</a><a href='pages/resources.html'>Resources</a></nav></div></header><main class='container'><section class='callout'><strong>Draft generated October 15, 2025</strong></section><section><h2>Welcome</h2><p>A personal archive of healing, reflection, and structured truth.</p><p><a class='button' href='pages/timeline.html'>Open the Timeline →</a></p></section></main><footer class='site-footer'><div class='container'><small>Static HTML/CSS/JS — no tracking.</small></div></footer></body></html>
+# My Narc Abuse Journey
+
+This repository hosts my **personal healing and documentation project**.
+
+## Structure
+```
+index.html
+/assets/style.css
+/pages/timeline.html
+/pages/about.html
+/pages/resources.html
+/data/timeline.json
+```
+
+Enable Pages: Settings → Pages → Deploy from a branch → Branch: `main` → Folder: `/ (root)`.
+
+© 2025
